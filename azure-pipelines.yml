@@ -1,8 +1,0 @@
-trigger:
-- main
-
-pool:
-  vmImage: 'ubuntu-latest'
-
-extends:
-  template: templates/parameters.yml
